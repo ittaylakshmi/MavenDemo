@@ -6,6 +6,6 @@ public class Restapi {
 
 	@Test
 	public void restApi() {
-		System.out.println("Display RestApi Test");
+		System.out.println("Display RestApi Test2222");
 	}
 }
